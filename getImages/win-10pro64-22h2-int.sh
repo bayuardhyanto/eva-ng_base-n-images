@@ -1,5 +1,10 @@
 #!/bin/sh
 
+read -p  "Watch https://www.youtube.com/watch?v=Q96f0QeCpVg"
+
+
+
+
 sudo apt update
 sudo apt install -y unzip curl wget
 
